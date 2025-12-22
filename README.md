@@ -1,8 +1,25 @@
-# Agent-based-modeling-of-gray-bat-flight
+# Agent-Based Modeling of Gray Bat Flight
 
-model_NO.m is the MATLAB script for model with no obstacles
-model_O.m is the MATLAB script for model with obstacles
-9_23.mat is the MATLAB data file containing trajectories of multiple bats without obstacles
-9_23_singletons.mat is the MATLAB data file containing trajectories of single bats without obstacles
-9_24_obsref.mat is the MATLAB data file containing trajectories of multiple bats with obstacles
-9_24_singletons_obsref.mat is the MATLAB data file containing trajectories of single bats with obstacles
+This repository contains MATLAB scripts and data files for an agent-based model of gray bat flight behavior, with and without obstacles.
+
+## MATLAB Scripts
+
+- **model_NO.m**  
+  MATLAB script for the model **without obstacles**.
+
+- **model_O.m**  
+  MATLAB script for the model **with obstacles**.
+
+## Data Files
+
+- **9_23.mat**  
+  Trajectories of **multiple bats without obstacles**.
+
+- **9_23_singletons.mat**  
+  Trajectories of a **single bat without obstacles**.
+
+- **9_24_obsref.mat**  
+  Trajectories of **multiple bats with obstacles**.
+
+- **9_24_singletons_obsref.mat**  
+  Trajectories of a **single bat with obstacles**.
